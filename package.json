@@ -1,0 +1,13 @@
+{
+  "name": "Playwright_example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hcy6654/Playwright_example.git",
+  "author": "hcy6654 <hcy6654@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.5.2"
+  },
+  "scripts": {}
+}
